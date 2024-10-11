@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Set the width and height of the popup container
     var container = document.getElementById("container");
-    container.style.width = "900px"; // Ayarlamak istediğiniz genişlik
-    container.style.height = "900x"; // Ayarlamak istediğiniz yükseklik
+    container.style.width = "900px"; 
+    container.style.height = "900x"; 
   
     // Rest of your existing code...
     var checkButton = document.getElementById("translateBtn");

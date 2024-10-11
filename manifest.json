@@ -10,8 +10,7 @@
     {
       "matches": [
         "*://www.coursera.org/*",
-        "*://www.netflix.com/*",
-        "*://www.udemy.com/course/*/learn/lecture/*"
+        "*://www.udemy.com/*"
       ],
       "js": [
         "background.js"
